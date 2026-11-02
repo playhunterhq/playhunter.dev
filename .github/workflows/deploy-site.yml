@@ -1,6 +1,6 @@
 name: Deploy site
 
-# playhunter.dev is now the gamespec dashboard, served at the root.
+# playhunter.dev is the Playhunter holding page, featuring projects in flight.
 # Editorial (Astro) site was retired 2026-08-08 — source remains in site/
 # but is no longer built or deployed. Legacy surfaces preserved:
 #   /scout            — Scout daily brief (refreshed by scout-daily.yml)
